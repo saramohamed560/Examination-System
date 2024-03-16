@@ -1,0 +1,14 @@
+D:\Route\Tasks\C#\c sharp\Exam 02\Exam 02\bin\Debug\net7.0\Exam 02.exe
+D:\Route\Tasks\C#\c sharp\Exam 02\Exam 02\bin\Debug\net7.0\Exam 02.deps.json
+D:\Route\Tasks\C#\c sharp\Exam 02\Exam 02\bin\Debug\net7.0\Exam 02.runtimeconfig.json
+D:\Route\Tasks\C#\c sharp\Exam 02\Exam 02\bin\Debug\net7.0\Exam 02.dll
+D:\Route\Tasks\C#\c sharp\Exam 02\Exam 02\bin\Debug\net7.0\Exam 02.pdb
+D:\Route\Tasks\C#\c sharp\Exam 02\Exam 02\obj\Debug\net7.0\Exam 02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Tasks\C#\c sharp\Exam 02\Exam 02\obj\Debug\net7.0\Exam 02.AssemblyInfoInputs.cache
+D:\Route\Tasks\C#\c sharp\Exam 02\Exam 02\obj\Debug\net7.0\Exam 02.AssemblyInfo.cs
+D:\Route\Tasks\C#\c sharp\Exam 02\Exam 02\obj\Debug\net7.0\Exam 02.csproj.CoreCompileInputs.cache
+D:\Route\Tasks\C#\c sharp\Exam 02\Exam 02\obj\Debug\net7.0\Exam 02.dll
+D:\Route\Tasks\C#\c sharp\Exam 02\Exam 02\obj\Debug\net7.0\refint\Exam 02.dll
+D:\Route\Tasks\C#\c sharp\Exam 02\Exam 02\obj\Debug\net7.0\Exam 02.pdb
+D:\Route\Tasks\C#\c sharp\Exam 02\Exam 02\obj\Debug\net7.0\Exam 02.genruntimeconfig.cache
+D:\Route\Tasks\C#\c sharp\Exam 02\Exam 02\obj\Debug\net7.0\ref\Exam 02.dll
